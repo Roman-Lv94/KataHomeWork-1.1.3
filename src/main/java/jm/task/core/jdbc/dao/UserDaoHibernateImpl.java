@@ -6,7 +6,6 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 
 import java.util.List;
-import java.util.ArrayList;
 
 public class UserDaoHibernateImpl implements UserDao {
     public UserDaoHibernateImpl() {
